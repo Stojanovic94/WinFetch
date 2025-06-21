@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35706.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFetch", "WinFetch\WinFetch.csproj", "{8316738C-A355-4CF7-B958-5028598D6A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8316738C-A355-4CF7-B958-5028598D6A88}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{8316738C-A355-4CF7-B958-5028598D6A88}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{8316738C-A355-4CF7-B958-5028598D6A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8316738C-A355-4CF7-B958-5028598D6A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4A32A8-DB52-4EB3-AEEA-4B63E11FB139}
+	EndGlobalSection
+EndGlobal

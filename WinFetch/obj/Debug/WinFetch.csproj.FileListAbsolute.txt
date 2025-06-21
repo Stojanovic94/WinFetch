@@ -1,0 +1,6 @@
+C:\Users\Nikola\source\repos\WinFetch\WinFetch\obj\Debug\WinFetch.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WinFetch\WinFetch\bin\Debug\WinFetch.exe.config
+C:\Users\Nikola\source\repos\WinFetch\WinFetch\bin\Debug\WinFetch.exe
+C:\Users\Nikola\source\repos\WinFetch\WinFetch\bin\Debug\WinFetch.pdb
+C:\Users\Nikola\source\repos\WinFetch\WinFetch\obj\Debug\WinFetch.exe
+C:\Users\Nikola\source\repos\WinFetch\WinFetch\obj\Debug\WinFetch.pdb
