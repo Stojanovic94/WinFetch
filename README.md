@@ -4,7 +4,7 @@
 
 Displays your system specs alongside an ASCII logo, with color palette and clean formatting — all in your terminal.
 
-![screenshot](screenshot.png) <!-- Optional: add screenshot if you want -->
+![](image.png)
 
 ---
 
