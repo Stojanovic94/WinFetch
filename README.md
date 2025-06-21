@@ -28,4 +28,4 @@ Displays your system specs alongside an ASCII logo, with color palette and clean
 2. Make sure `System.Management`, `System.Windows.Forms`, and `System.Drawing` are added via **References**
 3. Set configuration to `Release`
 4. Build (Ctrl + Shift + B)
-5. Run the output `.exe` in:
+5. Run the output `.exe`.
